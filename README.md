@@ -1,0 +1,1 @@
+This is Amahla's first git project!
